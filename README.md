@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+An application that rewards new members for taking initiatve while workig on Github.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+What you will achieve:  
+- [] comfort in doing tasks
+- [] better ability to work with other members
+- [] improving knowledge on Github
 
 ## Getting started
 
