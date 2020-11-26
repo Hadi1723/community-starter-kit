@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+1. Welcome new member
+2. Do you want some tips?
+3. Amazing job.
+4. Keep working
+5. Remember to seek help when needed.
